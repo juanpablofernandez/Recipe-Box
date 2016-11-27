@@ -50,5 +50,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'paperclip', '~> 5.1'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'devise', '~> 4.2'
 gem 'rb-readline'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
